@@ -1,0 +1,29 @@
+https://retoolapi.dev/BuWOdF/Expo
+See all available endpoints here (generated with json-server).
+Endpoint URL
+
+HTTP method endpoints
+
+GET
+/BuWOdF/Expo
+
+GET filter
+/BuWOdF/Expo?Nombre=value
+
+GET by id
+/BuWOdF/Expo/1
+
+GET paginate
+/BuWOdF/Expo?_page=2&_limit=10
+
+POST
+/BuWOdF/Expo
+
+PUT
+/BuWOdF/Expo/1
+
+PATCH
+/BuWOdF/Expo/1
+
+DELETE
+/BuWOdF/Expo/1
